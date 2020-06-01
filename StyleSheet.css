@@ -9,7 +9,7 @@ html, body {
 }
 
 body {
-	background: url('bg_img/Corporate.jpg') center no-repeat;
+	background: url('img/Corporate.jpg') center no-repeat;
 	background-size: cover;
 	height: 100vh;
 }
